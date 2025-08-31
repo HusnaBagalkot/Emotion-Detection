@@ -1,7 +1,7 @@
 # Emotion-Detection
 Emotion Detection is an advanced field of Artificial Intelligence (AI) and Computer Vision that focuses on identifying and analyzing human emotions from various data sources such as facial expressions, speech, body language, or text. Using Machine Learning (ML), Deep Learning, and Natural Language Processing (NLP) techniques, emotion detection systems can classify emotions like happiness, sadness, anger, fear, surprise, and neutrality.
 
-🔹 How it Works
+**How it Works**
 
 Data Collection – Input is taken in the form of images, video, speech, or text.
 
@@ -11,7 +11,7 @@ Classification Model – A trained model (CNN, RNN, Transformer, etc.) classifie
 
 Prediction & Output – The system displays or acts upon the detected emotional state.
 
-🔹 Applications
+**Applications**
 
 Healthcare – Detecting depression, stress, or mental health issues.
 
@@ -23,7 +23,7 @@ Marketing – Analyzing customer emotions towards products/ads.
 
 Security – Identifying suspicious behavior based on emotional cues.
 
-🔹 Benefits
+**Benefits**
 
 Enhances human-computer interaction.
 
@@ -32,3 +32,5 @@ Helps in personalized services.
 Supports mental well-being analysis.
 
 Provides insights for business intelligence.
+
+**DataSet used from kaggle**
